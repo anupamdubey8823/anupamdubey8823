@@ -1,5 +1,5 @@
 ## Hey, This is Anupam Dubey  👋
-#### I have a keen interest in Full-Stack Web development and currently developing some projects in the same. I am an upcoming Electronics Engineer and currently in my 7th Semester.
+With a keen interest in Full-Stack Web development, I am an upcoming Electronics Engineer and currently in my 7th Semester.
 
 ## Projects/Experience
 
