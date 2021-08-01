@@ -3,7 +3,7 @@ With a keen interest in Full-Stack Web development, I am an upcoming Electronics
 
 ## Projects/Experience
 
-#### - 🔭 Projects I have worked on..
+#### - 🔭 Projects I have worked/working on..
 
   - [Notex](https://notexcd.netlify.app/)
   - [Simon Game - A game developed using Javascipt](https://anupamdubey8823.github.io/Simon-Game/) 
